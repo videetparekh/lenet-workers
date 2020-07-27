@@ -7,7 +7,7 @@
   "dependencies": {
     "@tensorflow/tfjs": "^1.5.2",
     "atob": "^2.1.2",
-    "jpeg-js": "^0.3.5",
+    "jpeg-js": "^0.4.0",
     "performance-now": "^2.1.0",
     "pngjs": "^3.4.0",
     "string-to-stream": "^1.1.1",
